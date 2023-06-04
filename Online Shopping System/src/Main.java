@@ -28,6 +28,8 @@ public class Main {
 
         cart.displayCart();
         cart.calculateTotalPrice();
+        
+        cart.payment();
 
         }
 
